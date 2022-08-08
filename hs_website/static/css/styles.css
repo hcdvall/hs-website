@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "Righteous-Regular";
+    src: url("../fonts/Righteous-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Dosis-Bold";
+    src: url("../fonts/Dosis-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Dosis-Regular";
+    src: url("../fonts/Dosis-Regular.ttf");
+}
+
+
+html {
+    background-color: #393E41;
+}
+
+body {
+    height: 100%;
+    font-family: "Dosis-Regular";
+    color: #E7E5DF;
+    margin: 0;
+}
+
+h1 {
+    height: 100%;
+    font-family: "Righteous-Regular";
+    color: #E7BB41;
+    margin: 0;
+}
+
+h2 {
+    height: 100%;
+    font-family: "Dosis-Bold";
+    color: #E7BB41;
+    margin: 0;
+}
+
+.site-footer {
+    background: #44BBA4
+}
